@@ -121,5 +121,5 @@
 (defn -main [& _]
   ;; Load the database
   (load-db)
-  ;; Start the server and enjoy!
+  ;; Start the server
   (start-server))
