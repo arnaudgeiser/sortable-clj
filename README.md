@@ -1,7 +1,7 @@
 # Sortable
 
 A small experiment to prove sortable problem can be solve
-easily with just a little bit of SQL.
+easily with just a little bit of SQL
 
 ## Prerequisite
 
