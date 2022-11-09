@@ -123,3 +123,7 @@
   (load-db)
   ;; Start the server and enjoy!
   (start-server))
+
+
+
+(prn "hello")
